@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+
+#card{
+    display: grid
+}
+
+#info{
+border: 3px solid pink;
+}
+
+#skill{
+    border: 3px solid blue;
+}
+
+#constelations{
+    border: 3px solid brown
+}
